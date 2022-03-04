@@ -1,1 +1,1 @@
-# dataeng: Como começcar em Engenharia de Dados
+# dataeng: Como começar em Engenharia de Dados
