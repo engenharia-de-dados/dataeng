@@ -63,7 +63,7 @@
     * Great Expectations;
 * Catalogo de dados:
     * Amundsen;
-Streamming:
+* Streamming:
 * Apache Beam
 	https://www.udemy.com/course/apache-beam-python
 * Mensageria
