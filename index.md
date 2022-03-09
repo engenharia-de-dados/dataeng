@@ -11,14 +11,34 @@
 
 ## Banco de Dados 
 <details>
-<summary>Bancos</summary>
+<summary>SQL</summary>
 	
-- [X] SQL
-- [X] NoSQL
-- [ ] describe_certificate
-- [X] Colunar - BigQuery
-- [ ] Colunar - Redshift 
+- [X] link de tutorial sql
+- [X] link de tutorial sql
 </details>
+
+<details>
+<summary>NoSQL</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
+
+
+<details>
+<summary>Colunar - BigQuery</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
+
+<details>
+<summary>Colunar - Redshift</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
+
 
 ## Orquestração
 	MUST Apache Airfllow
