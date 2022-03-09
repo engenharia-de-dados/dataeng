@@ -9,12 +9,15 @@
 
 * Engenharia de dados da Udacity;  https://www.udacity.com/course/data-engineer-nanodegree--nd027
 
-## Banco de Dados
-* SQL;
-* NoSQL;
-* Colunar
-      * BigQuery;
-      * Redshift;
+## Banco de Dados 
+<details>
+<summary>Bancos</summary>
+- [X] SQL
+- [X] NoSQL
+- [ ] describe_certificate
+- [X] Colunar - BigQuery
+- [ ] Colunar - Redshift 
+</details>
 
 ## Orquestração
 	MUST Apache Airfllow
