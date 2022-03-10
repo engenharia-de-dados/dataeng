@@ -9,6 +9,7 @@
 
 * Engenharia de dados da Udacity;  https://www.udacity.com/course/data-engineer-nanodegree--nd027
 
+
 ## Banco de Dados 
 <details>
 <summary>SQL</summary>
@@ -24,6 +25,12 @@
 - [X] link de tutorial 
 </details>
 
+<details>
+<summary>Colunar - Snowflake</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
 
 <details>
 <summary>Colunar - BigQuery</summary>
@@ -44,22 +51,24 @@
 	MUST Apache Airfllow
 		- https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
 		- https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
-		- https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide
-	NICE Luigi
+		- https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
 	NICE Prefect
+	NICE Dagster
+	NICE Luigi
 		
 ## Processamento:
 	* Python/Pandas;
 	* Spark;
+	* dbt;
 
 ## Infraestrutura:
 	* Ambientes Virtuais:
-
 	* Docker;
 	* Kubernetes;
 	* Cloud (pelo menos um);
 	     * AWS;
 	     * GCP;
+	     * Azure;
 
 
 ## Datasets para estudar e criar projetos:
@@ -77,7 +86,7 @@
 * MUST Data lakes;
 	* Arquiteturas de DL;
 * MUST Data Warehouses;
-	* Arqueteturs de Schema de DWs;
+	* Arquiteturas de Schema de DWs;
 * Data Lakehouses;
 
 
@@ -87,8 +96,10 @@
     * Great Expectations;
 * Catalogo de dados:
     * Amundsen;
+    * Datahub;
+    * OpenMetadata;
 * Streamming:
-* Apache Beam
+    * Apache Beam
 	https://www.udemy.com/course/apache-beam-python
 * Mensageria
 * Replayable Logs
