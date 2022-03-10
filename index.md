@@ -33,7 +33,6 @@
 </details>
 
 <details>
-<details>
 <summary>Colunar - BigQuery</summary>
 	
 - [X] link de tutorial 
