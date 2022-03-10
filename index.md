@@ -9,13 +9,44 @@
 
 * Engenharia de dados da Udacity;  https://www.udacity.com/course/data-engineer-nanodegree--nd027
 
-## Banco de Dados
-* SQL;
-* NoSQL;
-* Colunar
-      * BigQuery;
-      * Redshift;
-      * Snowflake;
+
+## Banco de Dados 
+<details>
+<summary>SQL</summary>
+	
+- [X] link de tutorial sql
+- [X] link de tutorial sql
+</details>
+
+<details>
+<summary>NoSQL</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
+
+<details>
+<summary>Colunar - Snowflake</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
+
+<details>
+<details>
+<summary>Colunar - BigQuery</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
+
+<details>
+<summary>Colunar - Redshift</summary>
+	
+- [X] link de tutorial 
+- [X] link de tutorial 
+</details>
+
 
 ## Orquestração
 	MUST Apache Airfllow
