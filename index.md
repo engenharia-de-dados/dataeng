@@ -2,6 +2,53 @@
 
 ## Roadmap
  
+ 
+```mermaid
+  graph LR;
+      A[Python Básico]-->B[Pandas + Matplotlib];
+      C[Lógica de Programação]-->B;
+      D[Estatística Básica]-->B;
+      D-->E[Teste de hipótese];
+      F[Probabilidade]-->B;
+      F-->E;
+      E-->G[Regressão Linear];
+      E-->H[Análise Multivariada];
+      B-->I[Sklearn + statmodels];
+      H-->I;
+      G-->I;
+      J[Banco de Dados SQL]-->K[Apache Spark];
+      L[Banco de Dados NoSQL]-->K;
+      I-->K;
+      M[GNU/Linux + Bash + Git + Docker];
+      click A "https://github.com/TeoCalvo/teomerefs/#programa%C3%A7%C3%A3o"
+      click C "https://github.com/TeoCalvo/teomerefs/#programa%C3%A7%C3%A3o"
+      click D "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click E "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click F "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click G "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click H "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click I "https://github.com/TeoCalvo/teomerefs/#machine-learning"
+      click J "https://github.com/TeoCalvo/teomerefs/#banco-de-dados"
+      click L "https://github.com/TeoCalvo/teomerefs/#banco-de-dados"
+      click M "https://github.com/TeoCalvo/teomerefs/#utilit%C3%A1rios"
+      
+```
+{%- if content contains 'mermaid' -%}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+<script>
+const config = {
+    startOnLoad:true,
+    theme: 'forest',
+    flowchart: {
+        useMaxWidth:false,
+        htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
+{% endif %}
+
 ## Trilhas Pagas:
 * Engenheiro de dados do Datacamp;
     * 
