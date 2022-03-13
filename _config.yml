@@ -1,3 +1,2 @@
 theme: jekyll-theme-architect
-gems: [jekyll-mermaid]
-markdown: GFM
+gems: [jekyll-mermaid] 
