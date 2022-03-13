@@ -60,9 +60,14 @@ Dividimos os recursos em 4 níveis
 
 - ### Python
  
+    | Site | Título | Nível |
+
+    |:--------|:-------:|--------:|
+    |[Python](https://www.python.org//)|Python|Básico|
+    |[Pandas](https://pandas.pydata.org/)|Pandas|Básico|
 - ### SQL
-    |Site|Título|Nível|
-    
+    | Site | Título | Nível |
+
     |:--------|:-------:|--------:|
     |[TeoMeWhy](https://github.com/TeoCalvo/sql_gc)|Treinamento SQL|Básico ao avançado|
     
