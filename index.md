@@ -66,6 +66,7 @@ Dividimos os recursos em 4 níveis
     |[Python](https://www.python.org//)|Python|Básico|
     |[Pandas](https://pandas.pydata.org/)|Pandas|Básico|
 - ### SQL
+
     | Site | Título | Nível |
 
     |:--------|:-------:|--------:|
