@@ -1,7 +1,8 @@
 # dataEng: Como começar em Engenharia de Dados
 
-# www.dataeng.com.br
+Este projeto tem o objetivo de organizar conteúdos sobre engenharia de dados, principalmente em português, para facilitar o aprendizado de quem está entrando na área.
 
+# www.dataeng.com.br
 
 
 ## Contributors ✨
