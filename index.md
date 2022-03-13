@@ -50,7 +50,7 @@ Dividimos os recursos em 4 níveis
 
         click B "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#programa%C3%A7%C3%A3o"
         click B1 "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#python"
-        click B2 "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#sql"
+        click B2 "#sql"
        
       
 ```
