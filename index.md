@@ -48,10 +48,10 @@ Dividimos os recursos em 4 níveis
         C2-->C2_2
         C2-->C2_3
 
-        click B "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#programa%C3%A7%C3%A3o"
+        click B "#programa%C3%A7%C3%A3o" "Programação"
         click B1 "#python" "Python"
-        click B2 "#a_sql" "anchor test"
-        click C "javascript:alert('test')" "script test"
+        click B2 "#sql" "SQL"
+        click C "#banco-de-dados-básico"
        
       
 ```
@@ -59,10 +59,10 @@ Dividimos os recursos em 4 níveis
 ##  Programação 
 
 - ### Python
-
-<a id="a_sql"></a>
+ 
 - ### SQL
     |Site|Título|Nível|
+    
     |---|---|---|
     |[TeoMeWhy](https://github.com/TeoCalvo/sql_gc)|Treinamento SQL|Básico ao avançado|
     
