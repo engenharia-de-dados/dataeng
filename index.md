@@ -4,48 +4,27 @@
  
 ### Nível 1 : Comece aqui!
 
-Fundamentos
-    Programação 
-        Python
-        SQL
-    Banco de dados (Básico)
-        Bancos SQL
-            Mysql
-            Postgres
-            SQL Server
-        Bancos NoSQL
-            MongoDB
-            ElasticSearch
-            Redis
-    Linux
-        Terminal
-        Shell Scripting
-        SSH
-        Services
-        Resource/ Process Management
-
-
 ```mermaid
     graph LR
-        A[A - Fundamentos]
-        B[B - Programação]
-        B1[B1 -Python]
-        B2[B2 -SQL]
-        C[C - Banco de Dados Básico]
-        C1[C1 -Bancos SQL]
-        C1_1[C1_1 -Mysql]
-        C1_2[C1_2 -Postgres]
-        C1_3[C1_3 - SQL Server]
-        C2[C2 -Bancos NoSQL]
-        C2_1[C2_1 - MongoDB]
-        C2_2[C2_2 - ElasticSearch]
-        C2_3[C2_3 - Redis]
-        D[D - Linux]
-        D1[D1 -Terminal]
-        D2[D2 - Shell Scripting]
-        D3[D3 - SSH]
-        D4[D4 - Services]
-        D5[D5 - Resource/ Process Management]
+        A[Fundamentos]
+        B[Programação]
+        B1[Python]
+        B2[SQL]
+        C[Banco de Dados Básico]
+        C1[Bancos SQL]
+        C1_1[Mysql]
+        C1_2[Postgres]
+        C1_3[SQL Server]
+        C2[Bancos NoSQL]
+        C2_1[MongoDB]
+        C2_2[ElasticSearch]
+        C2_3[Redis]
+        D[Linux]
+        D1[Terminal]
+        D2[Shell Scripting]
+        D3[SSH]
+        D4[Services]
+        D5[Resource/ Process Management]
         A-->B
         A-->C
         A-->D
@@ -68,6 +47,42 @@ Fundamentos
        
       
 ```
+
+##  Programação 
+
+### Python
+
+### SQL
+   
+## Banco de dados (Básico)
+
+### Bancos SQL
+
+#### Mysql
+
+#### Postgres
+
+#### SQL Server
+
+### Bancos NoSQL
+
+#### MongoDB
+
+#### ElasticSearch
+
+#### Redis
+
+## Linux
+
+### Terminal 
+
+### Shell Scripting
+
+### SSH
+
+### Services
+
+### Resource/ Process Management
 
 
 
