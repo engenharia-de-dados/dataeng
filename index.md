@@ -63,14 +63,14 @@ Dividimos os recursos em 4 níveis
     | Site | Título | Nível |
 
     |:--------|:-------:|--------:|
-    |[Python](https://www.python.org//)|Python|Básico|
-    |[Pandas](https://pandas.pydata.org/)|Pandas|Básico|
+    |[Python](https://www.python.org//){:target="_blank"}|Python|Básico|
+    |[Pandas](https://pandas.pydata.org/){:target="_blank"}|Pandas|Básico|
 - ### SQL
 
     | Site | Título | Nível |
 
     |:--------|:-------:|--------:|
-    |[TeoMeWhy](https://github.com/TeoCalvo/sql_gc)|Treinamento SQL|Básico ao avançado|
+    |[TeoMeWhy](https://github.com/TeoCalvo/sql_gc){:target="_blank"}|Treinamento SQL|Básico ao avançado|
     
    
 ## Banco de dados (Básico)
