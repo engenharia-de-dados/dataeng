@@ -2,6 +2,117 @@
 
 ## Roadmap
  
+### Nível 1 : Comece aqui !
+
+Fundamentos
+    Programação 
+        Python
+        SQL
+    Banco de dados (Básico)
+        Bancos SQL
+            Mysql
+            Postgres
+            SQL Server
+        Bancos NoSQL
+            MongoDB
+            ElasticSearch
+            Redis
+    Linux
+        Terminal
+        Shell Scripting
+        SSH
+        Services
+        Resource/ Process Management
+
+
+### Nível 2 : Indo para as nuvens!
+
+Plataforma
+    Cloud
+        AWS
+            Amazon S3
+            AWS VPC
+            AWS EC2
+        Azure
+            Azure Storage
+            Azure Virtual Machines
+            Azure Virtual Networks
+        GCP
+            Google Cloud Storage
+            Google Compute Engine
+            Google VPC
+    Open Source
+        Docker
+        Apache Mesos
+        OpenStack
+
+
+### Nível 3 : Escolha seu caminho
+
+Data Pipelines Engineer
+    Arquitetura Serveless
+        AWS Lambda
+        Google Functions
+        Azure Functions
+    Job Orquestration
+        AWS Step Function
+        Apache Airflow
+        Luigi
+        Prefect
+    Processing Frameworks
+        Apache Spark
+        Apache Arrow
+
+
+Data Infraestructure Engineer
+    Kubernets
+        Helm
+    Clustering
+        Apache Spark(infra)
+    Infra as Code
+        Terraform
+        Ansible
+        AWS CDK
+        Pulumi
+    Auto-Scaling
+
+
+### Nível 4: Torne-se um Jedi
+
+Aprofundamento Geral
+    Recursos Computacionais
+    Linguagens de Programação
+    Data Warehousing
+    Monitoramento
+    Segurança
+    Data Lakes
+
+Arcabouço Teórico
+    Algebra linear
+    Cálculo numérico
+    Recuperação de Informação
+    Computaçãoi distribuída
+
+Data Governance
+    Controle de Acesso SGBDs
+    Catálogo de dados
+        Amundsen
+        Apache Atlas
+    Auditoria
+        LGPD/GPDR
+
+Data Streaming
+    Apache Kafka
+    AWS Kinesis
+    CDC
+    Apache Nifi
+
+Machine Learning Engineering
+    Machine Learning
+        Aprendizado Supervisionado
+        Aprendizado Não-Supervisionado
+    Estatística e Probabilidade
+    Teste A/B
  
 ```mermaid
   graph TD;
@@ -33,21 +144,7 @@
       click M "https://github.com/TeoCalvo/teomerefs/#utilit%C3%A1rios"
       
 ```
-{%- if content contains 'mermaid' -%}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-<script>
-const config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart: {
-        useMaxWidth:false,
-        htmlLabels:true
-        }
-};
-mermaid.initialize(config);
-window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-</script>
-{% endif %}
+ 
 
 ## Trilhas Pagas:
 * Engenheiro de dados do Datacamp;
