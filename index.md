@@ -50,7 +50,8 @@ Dividimos os recursos em 4 níveis
 
         click B "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#programa%C3%A7%C3%A3o"
         click B1 "#python" "Python"
-        click B2 "#a_sql"  "anchor test"
+        click B2 "#a_sql" "anchor test"
+        click C "javascript:alert('test')" "script test"
        
       
 ```
