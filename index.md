@@ -1,6 +1,8 @@
 # Como começar em Engenharia de Dados
 
 ## Roadmap
+Este projeto tem o objetivo de organizar conteúdos, principalmente em português, sobre engenharia de dados para facilitar o aprendizado de quem está entrando na área.
+Dividimos os recursos em 4 níveis 
  
 ### Nível 1 : Comece aqui!
 
@@ -43,7 +45,10 @@
         C2-->C2_1
         C2-->C2_2
         C2-->C2_3
-  
+
+        click B "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#programa%C3%A7%C3%A3o"
+        click B1 "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#python"
+        click B2 "https://github.com/engenharia-de-dados/dataeng/blob/main/index.md#sql"
        
       
 ```
@@ -85,7 +90,7 @@
 ### Resource/ Process Management
 
 
-
+**[⬆ Voltar ao início](#roadmap)**
 ### Nível 2 : Indo para as nuvens!
 
 Plataforma
