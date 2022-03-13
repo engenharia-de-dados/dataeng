@@ -100,6 +100,8 @@ Dividimos os recursos em 4 níveis
 
 **[⬆ Voltar ao início](#roadmap)**
 
+
+
 ### Nível 2 : Indo para as nuvens!
 ```
 
@@ -134,8 +136,12 @@ Data Pipelines Engineer
     Job Orquestration
         AWS Step Function
         Apache Airflow
+            - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
+		    - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
+		    - https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
         Luigi
         Prefect
+        Dagster
     Processing Frameworks
         Apache Spark
         Apache Arrow
@@ -164,21 +170,28 @@ Aprofundamento Geral
     Recursos Computacionais
     Linguagens de Programação
     Data Warehousing
+        * Arquiteturas de Schema de DWs;
     Monitoramento
     Segurança
     Data Lakes
+        * Arquiteturas de DL;
+        * Data Lakehouses;
 
 Arcabouço Teórico
     Algebra linear
     Cálculo numérico
     Recuperação de Informação
-    Computaçãoi distribuída
+    Computação distribuída
 
 Data Governance
     Controle de Acesso SGBDs
     Catálogo de dados
-        Amundsen
-        Apache Atlas
+        * Amundsen;
+        * Datahub;
+        * OpenMetadata;
+        * Apache Atlas
+    Testes de dados;
+        * Great Expectations;
     Auditoria
         LGPD/GPDR
 
@@ -187,6 +200,8 @@ Data Streaming
     AWS Kinesis
     CDC
     Apache Nifi
+    Apache Beam
+	    https://www.udemy.com/course/apache-beam-python
 
 Machine Learning Engineering
     Machine Learning
@@ -199,27 +214,11 @@ Machine Learning Engineering
  ===========================
 
 ## Trilhas Pagas:
-* Engenheiro de dados do Datacamp;
-    * 
-
-* Curso de engenheiro de dados do Google (para Certificação);
-    * 
-
+* Engenheiro de dados do Datacamp; 
+* Curso de engenheiro de dados do Google (para Certificação); 
 * Engenharia de dados da Udacity;  https://www.udacity.com/course/data-engineer-nanodegree--nd027
 
- 
-
-
-## Orquestração
-	MUST Apache Airfllow
-		- https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
-		- https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
-		- https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
-	NICE Prefect
-	NICE Dagster
-	NICE Luigi
-		 
- 
+  
 
 ## Datasets para estudar e criar projetos:
 	* Google Bigquery public datasets - https://cloud.google.com/bigquery/public-data;
@@ -230,27 +229,4 @@ Machine Learning Engineering
 		* Postman;
 		* Imnsonia;
 	    * CEP, CNPJs, DDD, FIPE, etc - https://brasilapi.com.br/docs
-
-
-## Teoria:
-* MUST Data lakes;
-	* Arquiteturas de DL;
-* MUST Data Warehouses;
-	* Arquiteturas de Schema de DWs;
-* Data Lakehouses;
-
-
-## Avançado:
-
-* Testes de dados;
-    * Great Expectations;
-* Catalogo de dados:
-    * Amundsen;
-    * Datahub;
-    * OpenMetadata;
-* Streamming:
-    * Apache Beam
-	https://www.udemy.com/course/apache-beam-python
-* Mensageria
-* Replayable Logs
-    * Kafka;
+ 
