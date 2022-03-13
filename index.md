@@ -4,7 +4,7 @@
  
  
 ```mermaid
-  graph LR;
+  graph TD;
       A[Python Básico]-->B[Pandas + Matplotlib];
       C[Lógica de Programação]-->B;
       D[Estatística Básica]-->B;
