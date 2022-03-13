@@ -101,7 +101,7 @@ Dividimos os recursos em 4 níveis
 **[⬆ Voltar ao início](#roadmap)**
 
 ### Nível 2 : Indo para as nuvens!
-'''
+```
 
 Plataforma
     Cloud
@@ -122,9 +122,10 @@ Plataforma
         Apache Mesos
         OpenStack
 
-'''
+```
 ### Nível 3 : Escolha seu caminho
 
+```
 Data Pipelines Engineer
     Arquitetura Serveless
         AWS Lambda
@@ -139,7 +140,9 @@ Data Pipelines Engineer
         Apache Spark
         Apache Arrow
         dbt
+```
 
+```
 
 Data Infraestructure Engineer
     Kubernets
@@ -152,10 +155,11 @@ Data Infraestructure Engineer
         AWS CDK
         Pulumi
     Auto-Scaling
-
+```
 
 ### Nível 4: Torne-se um Jedi
 
+```
 Aprofundamento Geral
     Recursos Computacionais
     Linguagens de Programação
@@ -191,7 +195,7 @@ Machine Learning Engineering
     Estatística e Probabilidade
     Teste A/B
  
-
+``` 
  ===========================
 
 ## Trilhas Pagas:
