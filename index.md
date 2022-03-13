@@ -67,7 +67,8 @@ Dividimos os recursos em 4 níveis
    
 ## Banco de dados (Básico)
 
-- ### Bancos SQL
+
+### Bancos SQL
 
 - #### Mysql
 
@@ -84,6 +85,7 @@ Dividimos os recursos em 4 níveis
 - #### Redis
 
 ## Linux
+
 
 - ### Terminal 
 
