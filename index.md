@@ -1,8 +1,9 @@
 # Como começar em Engenharia de Dados
+Este projeto tem o objetivo de organizar conteúdos,  principalmente em português, sobre engenharia de dados para facilitar o aprendizado de quem está entrando na área.
+Dividimos os recursos em 4 níveis 
 
 ## Roadmap
-Este projeto tem o objetivo de organizar conteúdos, principalmente em português, sobre engenharia de dados para facilitar o aprendizado de quem está entrando na área.
-Dividimos os recursos em 4 níveis 
+
  
 ### Nível 1 : Comece aqui!
 
@@ -79,19 +80,21 @@ Dividimos os recursos em 4 níveis
 
 ## Linux
 
-### Terminal 
+- ### Terminal 
 
-### Shell Scripting
+- ### Shell Scripting
 
-### SSH
+- ### SSH
 
-### Services
+- ### Services
 
-### Resource/ Process Management
+- ### Resource/ Process Management
 
 
 **[⬆ Voltar ao início](#roadmap)**
+
 ### Nível 2 : Indo para as nuvens!
+'''
 
 Plataforma
     Cloud
@@ -112,7 +115,7 @@ Plataforma
         Apache Mesos
         OpenStack
 
-
+'''
 ### Nível 3 : Escolha seu caminho
 
 Data Pipelines Engineer
@@ -128,6 +131,7 @@ Data Pipelines Engineer
     Processing Frameworks
         Apache Spark
         Apache Arrow
+        dbt
 
 
 Data Infraestructure Engineer
@@ -180,37 +184,8 @@ Machine Learning Engineering
     Estatística e Probabilidade
     Teste A/B
  
-```mermaid
-  graph TD;
-      A[Python Básico]-->B[Pandas + Matplotlib];
-      C[Lógica de Programação]-->B;
-      D[Estatística Básica]-->B;
-      D-->E[Teste de hipótese];
-      F[Probabilidade]-->B;
-      F-->E;
-      E-->G[Regressão Linear];
-      E-->H[Análise Multivariada];
-      B-->I[Sklearn + statmodels];
-      H-->I;
-      G-->I;
-      J[Banco de Dados SQL]-->K[Apache Spark];
-      L[Banco de Dados NoSQL]-->K;
-      I-->K;
-      M[GNU/Linux + Bash + Git + Docker];
-      click A "https://github.com/TeoCalvo/teomerefs/#programa%C3%A7%C3%A3o"
-      click C "https://github.com/TeoCalvo/teomerefs/#programa%C3%A7%C3%A3o"
-      click D "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
-      click E "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
-      click F "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
-      click G "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
-      click H "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
-      click I "https://github.com/TeoCalvo/teomerefs/#machine-learning"
-      click J "https://github.com/TeoCalvo/teomerefs/#banco-de-dados"
-      click L "https://github.com/TeoCalvo/teomerefs/#banco-de-dados"
-      click M "https://github.com/TeoCalvo/teomerefs/#utilit%C3%A1rios"
-      
-```
- 
+
+ ===========================
 
 ## Trilhas Pagas:
 * Engenheiro de dados do Datacamp;
@@ -221,42 +196,7 @@ Machine Learning Engineering
 
 * Engenharia de dados da Udacity;  https://www.udacity.com/course/data-engineer-nanodegree--nd027
 
-
-## Banco de Dados 
-<details>
-<summary>SQL</summary>
-	
-- [X] link de tutorial sql
-- [X] link de tutorial sql
-</details>
-
-<details>
-<summary>NoSQL</summary>
-	
-- [X] link de tutorial 
-- [X] link de tutorial 
-</details>
-
-<details>
-<summary>Colunar - Snowflake</summary>
-	
-- [X] link de tutorial 
-- [X] link de tutorial 
-</details>
-
-<details>
-<summary>Colunar - BigQuery</summary>
-	
-- [X] link de tutorial 
-- [X] link de tutorial 
-</details>
-
-<details>
-<summary>Colunar - Redshift</summary>
-	
-- [X] link de tutorial 
-- [X] link de tutorial 
-</details>
+ 
 
 
 ## Orquestração
@@ -267,21 +207,8 @@ Machine Learning Engineering
 	NICE Prefect
 	NICE Dagster
 	NICE Luigi
-		
-## Processamento:
-	* Python/Pandas;
-	* Spark;
-	* dbt;
-
-## Infraestrutura:
-	* Ambientes Virtuais:
-	* Docker;
-	* Kubernetes;
-	* Cloud (pelo menos um);
-	     * AWS;
-	     * GCP;
-	     * Azure;
-
+		 
+ 
 
 ## Datasets para estudar e criar projetos:
 	* Google Bigquery public datasets - https://cloud.google.com/bigquery/public-data;
