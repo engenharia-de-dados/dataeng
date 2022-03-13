@@ -55,27 +55,27 @@ Dividimos os recursos em 4 níveis
 
 ##  Programação 
 
-### Python
+- ### Python
 
-### SQL
+- ### SQL
    
 ## Banco de dados (Básico)
 
-### Bancos SQL
+- ### Bancos SQL
 
-#### Mysql
+- #### Mysql
 
-#### Postgres
+- #### Postgres
 
-#### SQL Server
+- #### SQL Server
 
 ### Bancos NoSQL
 
-#### MongoDB
+- #### MongoDB
 
-#### ElasticSearch
+- #### ElasticSearch
 
-#### Redis
+- #### Redis
 
 ## Linux
 
