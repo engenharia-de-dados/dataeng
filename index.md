@@ -63,6 +63,7 @@ Dividimos os recursos em 4 níveis
 - ### SQL
     |Site|Título|Nível|
     |---|---|---|
+    
     |[TeoMeWhy](https://github.com/TeoCalvo/sql_gc)|Treinamento SQL|Básico ao avançado|
     
    
