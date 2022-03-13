@@ -1,5 +1,6 @@
 # Como começar em Engenharia de Dados
-Este projeto tem o objetivo de organizar conteúdos,  principalmente em português, sobre engenharia de dados para facilitar o aprendizado de quem está entrando na área.
+Este projeto tem o objetivo de organizar conteúdos sobre engenharia de dados,  principalmente em português, para facilitar o aprendizado de quem está entrando na área.
+
 Dividimos os recursos em 4 níveis 
 
 ## Roadmap
@@ -59,6 +60,10 @@ Dividimos os recursos em 4 níveis
 - ### Python
 
 - ### SQL
+    |Site|Título|Nível|
+    |---|---|---|
+    |[TeoMeWhy](https://github.com/TeoCalvo/sql_gc)|Treinamento SQL|Básico ao avançado|
+    
    
 ## Banco de dados (Básico)
 
