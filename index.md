@@ -5,7 +5,7 @@ Dividimos os recursos em 4 níveis
 ## Roadmap
 
  
-### Nível 1 : Comece aqui!
+### Nível 1 : Fundamentos <<<< Comece aqui!
 
 ```mermaid
     graph LR
