@@ -237,17 +237,20 @@ Dividimos os recursos em 4 níveis
 ### Job Orquestration
 - #### AWS Step Function
 - #### Apache Airflow
-    - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
-    - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
-    - https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
+  - [Supletivo Airflow](https://www.youtube.com/watch?v=f_lnDBR3rFU)
+  - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
+  - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
+  - https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
 - #### Luigi
 - #### Prefect
 - #### Dagster
 
 ### Processing Frameworks
 - #### Apache Spark
+  - [Supletivo Spark](https://www.youtube.com/watch?v=mrHnb8U4fX4)
 - #### Apache Arrow
 - #### dbt
+  - [Supletivo dbt](https://www.youtube.com/watch?v=96gpDt-MGMM) 
 
 
 
