@@ -111,28 +111,79 @@ Dividimos os recursos em 4 níveis
 
 
 ### Nível 2 : Indo para as nuvens!
-```
+ 
+```mermaid
+    graph LR
+        P[Plataforma]
+        A[Cloud]
+        A1[AWS]
+            A1_1[Amazon S3]
+            A1_2[AWS VPC]
+            A1_3[AWS EC2]
+        A2[Azure]
+            A2_1[Azure Storage]
+            A2_2[Azure Virtual Machines]
+            A2_3[Azure Virtual Networks]
+        A3[GCP]
+            A3_1[Google Cloud Storage]
+            A3_2[Google Compute Engine]
+            A3_3[Google VPC]
+    B[Open Source]
+        B1[Docker]
+        B2[Apache Mesos]
+        B3[OpenStack]
+        P-->A
+        P-->B
+        A-->A1
+        A-->A2
+        A-->A3
+        A1-->A1_1
+        A1-->A1_2
+        A1-->A1_3
+        
+        A2-->A2_1
+        A2-->A2_2
+        A2-->A2_3
+        
+        A3-->A3_1
+        A3-->A3_2
+        A3-->A3_3
+         
+        B-->B1
+        B-->B2
+        B-->B3 
 
-Plataforma
-    Cloud
-        AWS
-            Amazon S3
-            AWS VPC
-            AWS EC2
-        Azure
-            Azure Storage
-            Azure Virtual Machines
-            Azure Virtual Networks
-        GCP
-            Google Cloud Storage
-            Google Compute Engine
-            Google VPC
-    Open Source
-        Docker
-        Apache Mesos
-        OpenStack
-
+        click B "#open_source" "Open Source" 
+       
+      
 ```
+ 
+
+## Plataforma
+### Cloud
+#### AWS
+- ####  Amazon S3
+- #### AWS VPC
+- #### AWS EC2
+
+#### Azure
+- #### Azure Storage
+- #### Azure Virtual Machines
+- #### Azure Virtual Networks
+
+#### GCP
+- #### Google Cloud Storage
+- #### Google Compute Engine
+- #### Google VPC
+
+### Open Source
+- #### Docker
+- #### Apache Mesos
+- #### OpenStack
+
+ 
+
+
 ### Nível 3 : Escolha seu caminho
 
 ```
