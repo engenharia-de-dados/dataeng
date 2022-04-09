@@ -153,7 +153,7 @@ Dividimos os recursos em 4 níveis
         B-->B2
         B-->B3 
 
-        click B "#open-source" "OpenSource" 
+        click B "#open-source" 
      
      
 ```
