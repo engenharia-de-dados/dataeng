@@ -153,8 +153,8 @@ Dividimos os recursos em 4 níveis
         B-->B2
         B-->B3 
 
-        click B "#open-source" 
-     
+        click B "#open-source"
+        click A1 "#aws"
      
 ```
  
@@ -186,41 +186,115 @@ Dividimos os recursos em 4 níveis
 
 ### Nível 3 : Escolha seu caminho
 
-```
-Data Pipelines Engineer
-    Arquitetura Serveless
-        AWS Lambda
-        Google Functions
-        Azure Functions
-    Job Orquestration
-        AWS Step Function
-        Apache Airflow
-            - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
-		    - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
-		    - https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
-        Luigi
-        Prefect
-        Dagster
-    Processing Frameworks
-        Apache Spark
-        Apache Arrow
-        dbt
+## Data Pipelines Engineer
+
+```mermaid
+    graph LR
+        P[Data Pipelines Engineer]
+        A[Arquitetura Serveless]
+          A1[AWS Lambda] 
+          A1[Google Functions] 
+          A1[Azure Functions] 
+        
+        B[Job Orquestration]
+            B1[AWS Step Function]
+            B2[Apache Airflow]
+            B3[Luigi]
+            B3[Prefect]
+            B3[Dagster]
+        C[Processing Frameworks]
+            C1[Apache Spark]
+            C2[Apache Arrow]
+            C3[dbt]
+        
+        
+        P-->A
+        P-->B
+        P-->C
+        
+        A-->A1
+        A-->A2
+        A-->A3 
+        
+        B-->B1
+        B-->B2
+        B-->B3 
+
+        C-->C1
+        C-->C2
+        C-->C3
+        
+        click B "#open-source"
+        click A1 "#aws"
+     
 ```
 
-```
+### Arquitetura Serveless
+- #### AWS Lambda
+- #### Google Functions
+- #### Azure Functions
 
-Data Infraestructure Engineer
-    Kubernets
-        Helm
-    Clustering
-        Apache Spark(infra)
-    Infra as Code
-        Terraform
-        Ansible
-        AWS CDK
-        Pulumi
-    Auto-Scaling
+### Job Orquestration
+- #### AWS Step Function
+- #### Apache Airflow
+    - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
+    - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
+    - https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
+- #### Luigi
+- #### Prefect
+- #### Dagster
+
+### Processing Frameworks
+- #### Apache Spark
+- #### Apache Arrow
+- #### dbt
+
+
+
+## Data Infraestructure Engineer
+ 
+```mermaid
+    graph LR
+        P[Data Infraestructure Engineer]
+        A[Kubernets]
+          A1[Helm]  
+        
+        B[Clustering]
+            B1[Apache Spark(infra)] 
+        C[Infra as Code]
+            C1[Terraform]
+            C2[Ansible]
+            C3[AWS CDK]
+            C4[Pulumi]
+        D[Auto-Scaling]
+        
+        P-->A
+        P-->B
+        P-->C
+        P-->D
+        
+        A-->A1 
+        
+        B-->B1 
+
+        C-->C1
+        C-->C2
+        C-->C3
+        C-->C4
+         
+     
 ```
+### Kubernets
+- Helm
+### Clustering
+- Apache Spark(infra)
+### Infra as Code
+- Terraform
+- Ansible
+- AWS CDK
+- Pulumi
+### Auto-Scaling
+
 
 ### Nível 4: Torne-se um Jedi
 
