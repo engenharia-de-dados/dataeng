@@ -260,7 +260,7 @@ Dividimos os recursos em 4 níveis
           A1[Helm]  
         
         B[Clustering]
-            B1[Apache Spark(infra)] 
+            B1[Apache Spark - infra] 
         C[Infra as Code]
             C1[Terraform]
             C2[Ansible]
@@ -287,7 +287,7 @@ Dividimos os recursos em 4 níveis
 ### Kubernets
 - Helm
 ### Clustering
-- Apache Spark(infra)
+- Apache Spark - infra
 ### Infra as Code
 - Terraform
 - Ansible
