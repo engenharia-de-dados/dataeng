@@ -71,6 +71,10 @@ Dividimos os recursos em 4 níveis
 
     |:--------|:-------:|--------:|
     |[TeoMeWhy](https://github.com/TeoCalvo/sql_gc){:target="_blank"}|Treinamento SQL|Básico ao avançado|
+   
+    |[sql-for-data-analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198){:target="_blank"}|Treinamento SQL|Básico|
+    
+    
     
    
 ## Banco de dados (Básico)
