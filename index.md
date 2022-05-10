@@ -167,8 +167,11 @@ Dividimos os recursos em 4 níveis
 ### Cloud
 #### AWS
 - ####  Amazon S3
+    - [Um Inventor Qualquer](https://www.youtube.com/watch?v=ayu9xlQXCYs&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm&index=17)
 - #### AWS VPC
+    - [Um Inventor Qualquer](https://www.youtube.com/watch?v=WMsADIgy4ms&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm&index=6)
 - #### AWS EC2
+    - [Um Inventor Qualquer](https://www.youtube.com/watch?v=a6nU5NTHJDM&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm&index=8)
 
 #### Azure
 - #### Azure Storage
@@ -235,6 +238,7 @@ Dividimos os recursos em 4 níveis
 
 ### Arquitetura Serveless
 - #### AWS Lambda
+    - [Um Inventor Qualquer](https://www.youtube.com/watch?v=N5dtRX2PWHY&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm&index=19)
 - #### Google Functions
 - #### Azure Functions
 
