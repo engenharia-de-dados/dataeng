@@ -259,6 +259,7 @@ Dividimos os recursos em 4 níveis
 - #### Apache Arrow
 - #### dbt
   - [Supletivo dbt](https://www.youtube.com/watch?v=96gpDt-MGMM) 
+  - [ETL101 - Curso de ETL utilizando o Modern Analytics Stack (Big Query + Stitch + dbt)](https://www.youtube.com/watch?list=PLrJaJt2i__IxReStfKCl88VT4pQxVKRzF&v=1q1P1mP9III)
 
 
 
