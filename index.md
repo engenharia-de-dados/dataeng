@@ -83,6 +83,7 @@ Dividimos os recursos em 4 níveis
 ### Bancos SQL
 
 - #### Mysql
+    - [Curso de SQL Completo Gratuito (Softblue)](https://www.softblue.com.br/site/curso/id/3/CURSO+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03)
 
 - #### Postgres
 
