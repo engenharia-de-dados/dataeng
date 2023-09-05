@@ -64,6 +64,7 @@ Dividimos os recursos em 4 níveis
 
     |:--------|:-------:|--------:|
     |[Python](https://www.python.org//){:target="_blank"}|Python|Básico|
+    |[devAnalytics/Youtube](https://www.youtube.com/watch?v=zC0X4CBui-I&list=PLQDFv3ddAPFSwwybX1t5XO7MIyJOTm_Pu){:target="_blank"}|Introdução à Linguagem Python|Básico|
     |[Pandas](https://pandas.pydata.org/){:target="_blank"}|Pandas|Básico|
 - ### SQL
 
