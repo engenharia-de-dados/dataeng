@@ -87,16 +87,19 @@ Dividimos os recursos em 4 níveis
     - [Curso de SQL Completo Gratuito (Softblue)](https://www.softblue.com.br/site/curso/id/3/CURSO+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03)
 
 - #### Postgres
-
+    - [Treinamento PostgreSQL para DBAs (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/banco-de-dados/postgresql.html)
 - #### SQL Server
 
 ### Bancos NoSQL
 
 - #### MongoDB
+   - [Treinamento MongoDB (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/banco-de-dados/mongodb.html)
 
 - #### ElasticSearch
+   - [Treinamento ElasticSearch (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/big-data/elasticsearch.html)
 
 - #### Redis
+   - [Treinamento Redis (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/big-data/redis.html)
 
 ## Linux
 
@@ -187,7 +190,9 @@ Dividimos os recursos em 4 níveis
 
 ### Open Source
 - #### Docker
+    - [Treinamento Docker (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/infraestrutura/docker.html)
 - #### Apache Mesos
+    - [Treinamento Apache Mesos (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/hadoop/apache-mesos.html)
 - #### OpenStack
 
  
@@ -251,6 +256,7 @@ Dividimos os recursos em 4 níveis
   - https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow
   - https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow
   - https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide	
+  - [Treinamento Apache Airflow (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/data-science/airflow.html)
 - #### Luigi
 - #### Prefect
 - #### Dagster
@@ -262,6 +268,7 @@ Dividimos os recursos em 4 níveis
 - #### dbt
   - [Supletivo dbt](https://www.youtube.com/watch?v=96gpDt-MGMM) 
   - [ETL101 - Curso de ETL utilizando o Modern Analytics Stack (Big Query + Stitch + dbt)](https://www.youtube.com/watch?list=PLrJaJt2i__IxReStfKCl88VT4pQxVKRzF&v=1q1P1mP9III)
+  - [Treinamento dbt - Analytics Engineering Workflow (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/data-science/dbt.html)
 
 
 
@@ -344,9 +351,11 @@ Data Governance
 
 Data Streaming
     Apache Kafka
+      -  [Treinamento Kafka Fundamental (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/big-data/kafka.html)
     AWS Kinesis
     CDC
     Apache Nifi
+      - [Treinamento Apache NiFi (Ambiente Livre)](https://www.ambientelivre.com.br/treinamento/hadoop/apache-nifi.html)
     Apache Beam
 	    https://www.udemy.com/course/apache-beam-python
 
