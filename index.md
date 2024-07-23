@@ -182,6 +182,7 @@ Dividimos os recursos em 4 níveis
 - #### Azure Storage
 - #### Azure Virtual Machines
 - #### Azure Virtual Networks
+- #### [Azure Certification DP-2032](https://github.com/JoseRFJuniorBigData/DP-2003)
 
 #### GCP
 - #### Google Cloud Storage
